@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    }
+    header {
+    text-align: center;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    }
+    main {
+    max-width: 800px;
+    margin: 0 auto;
+    }
+    h2 {
+    color: #007BFF;
+    }
+    ul {
+    list-style: none;
+    }
+    div {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    }
